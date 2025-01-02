@@ -108,7 +108,7 @@ const Sidebar = () => {
                   fontWeight="bold"
                   // style={{ paddingLeft: "0%" }}
                 >
-                  BARAF TRAVEL<br/> AGENCY
+                  RAADSAN TRAVEL<br/> SERVICES
                 </Typography>
                 {/* <IconButton onClick={() => setIsCollapsed(!isCollapsed)}> */}
                 {/* <MenuOutlinedIcon /> */}
