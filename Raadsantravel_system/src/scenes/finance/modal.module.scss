@@ -1,0 +1,31 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(28, 5, 50, 0.316);
+  
+}
+
+.modal {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  background-color: rgb(247, 247, 249);
+  width: 30vw;
+  height: 45vh;
+  border-radius: 10px;
+  outline: none;
+  background-color: #1F2A40;
+}
+
+.form{
+  // background-color:darkblue;
+  margin:2%;
+  .label{
+    color:black;
+  }
+}
